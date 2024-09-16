@@ -102,4 +102,14 @@ Os resultados principais obtidos até agora incluem:
 - Distribuição de idade dos clientes que aceitaram ou não a última campanha.
 
 ---
+### Integrantes
+550373 - Leonardo Yuuki Nakazone
+
+99119 - Leonardo Blanco Pérez Ribeiro
+
+98082 - Paulo Henrique Luchini Ferreira
+
+97999 - Gustavo Moreira Gonçalves
+
+552184 - Daniel Soares Delfin
 
