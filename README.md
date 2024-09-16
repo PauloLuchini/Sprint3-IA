@@ -93,7 +93,8 @@ Os resultados principais obtidos até agora incluem:
 - **Acurácia**: [Insira a acurácia obtida]
 - **F1-Score**: [Insira o F1-Score]
 - **Importância das Features**:
-    - [Inserir gráfico ou lista das variáveis mais importantes no modelo]
+    - ![image](https://github.com/user-attachments/assets/634ff46c-2374-46f8-940b-7ef05fca458e)
+
 
 ### Visualizações
 
